@@ -1,6 +1,6 @@
 # 🚗 Lane Detection with OpenCV
 
-![Lane Detection Demo]
+[Lane Detection Demo]
 *자율주행 차선 검출 시스템의 강력한 데모*
 
 **단순히 재미를 위해 시작되었으며, 최종 목표는 OpenPilot과 같은 모듈을 구성하는 것입니다.**
@@ -40,8 +40,8 @@
 
 ### 2. 레포지토리 클론
 ```bash
-git clone https://github.com/yourusername/lane-detection-opencv.git
-cd lane-detection-opencv
+git clone https://github.com/oosuiw/LaneDetection.git
+cd LaneDetection
 ```
 
 ### 3. 실행
