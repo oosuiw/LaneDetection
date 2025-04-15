@@ -1,6 +1,5 @@
 # 🚗 Lane Detection with OpenCV
 
-[Lane Detection Demo]
 *자율주행 차선 검출 시스템의 강력한 데모*
 
 **단순히 재미를 위해 시작되었으며, 최종 목표는 OpenPilot과 같은 모듈을 구성하는 것입니다.**
