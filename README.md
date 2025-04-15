@@ -1,6 +1,6 @@
 # 🚗 Lane Detection with OpenCV
 
-![Lane Detection Demo](https://via.placeholder.com/800x400.png?text=Lane+Detection+Demo)  
+![Lane Detection Demo]
 *자율주행 차선 검출 시스템의 강력한 데모*
 
 ---
